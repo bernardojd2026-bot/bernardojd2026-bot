@@ -1,6 +1,6 @@
 # Hi, I'm Joe 👋
 
-I'm a Computer Information Systems and Cybersecurity student at Appalachian State University, graduating May 2026. I'm passionate about software development, cloud computing, networking and cybersecurity.
+I'm a Computer Information Systems and Cybersecurity student at Appalachian State University, graduating May 2026. I'm passionate about software development, cloud computing, networking, and cybersecurity.
 
 ---
 
